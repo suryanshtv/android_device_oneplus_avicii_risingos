@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2018-2019 The aospOS Project
+# Copyright (C) 2018-2019 The lineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_avicii.mk
+    $(LOCAL_DIR)/lineage_avicii.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_avicii-eng \
-    aosp_avicii-user \
-    aosp_avicii-userdebug
+    lineage_avicii-eng \
+    lineage_avicii-user \
+    lineage_avicii-userdebug
